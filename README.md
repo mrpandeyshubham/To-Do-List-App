@@ -1,13 +1,16 @@
-# 📝 To-Do List App
+# 📝 Minimal To-Do List App
 
-A minimal and elegant To-Do List web application for managing tasks effectively.
+A simple and lightweight To-Do List web application built using **HTML**, **Vanilla CSS**, and **Vanilla JavaScript**.
+
+This app allows you to add, edit, delete, and filter tasks. All data is saved in your browser's local storage.
 
 ## 🚀 Features
-✅ Add, edit, delete tasks  
+✅ Add tasks quickly with an input form  
+✅ Edit or delete existing tasks  
 ✅ Mark tasks as complete/incomplete  
 ✅ Filter tasks (All, Active, Completed)  
-✅ Data saved in browser storage (localStorage)  
-✅ Mobile responsive design  
+✅ Data persists in browser storage (localStorage)  
+✅ Responsive design for desktop and mobile
 
 ## 🌐 Live Demo
 👉 [View App Online](https://mrpandeyshubham.github.io/To-Do-List-App/)
@@ -17,9 +20,9 @@ A minimal and elegant To-Do List web application for managing tasks effectively.
 
 ## 🛠️ Built With
 - HTML5
-- CSS3 (TailwindCSS)
+- CSS3 (Vanilla CSS)
 - Vanilla JavaScript
 - GitHub Pages for hosting
 
 ## 📜 License
-This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

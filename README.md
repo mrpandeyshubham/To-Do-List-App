@@ -15,9 +15,6 @@ This app allows you to add, edit, delete, and filter tasks. All data is saved in
 ## 🌐 Live Demo
 👉 [View App Online](https://mrpandeyshubham.github.io/To-Do-List-App/)
 
-## 📸 Screenshot
-![App Screenshot](https://placehold.co/600x400)
-
 ## 🛠️ Built With
 - HTML5
 - CSS3 (Vanilla CSS)
